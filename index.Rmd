@@ -22,6 +22,6 @@ knit        : slidify::knit2slides
 ## Slide 2
 
 do some more good stuff
-
+here and here
 
 
