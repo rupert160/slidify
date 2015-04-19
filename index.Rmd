@@ -21,8 +21,8 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-do some more good stuff
-here and here
-and this stuff
+1. do some more good stuff
+2. here and here
+3. and this stuff
 
 ---
